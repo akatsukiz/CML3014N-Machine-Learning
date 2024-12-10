@@ -1,0 +1,4 @@
+0 Phone
+1 Hand
+2 Bottle
+3 None
